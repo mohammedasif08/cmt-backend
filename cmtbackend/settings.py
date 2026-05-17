@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'cmtdb',
         'USER': 'postgres',       # pgAdmin username (usually postgres)
-        'PASSWORD': 'jabez', # pgAdmin la set pannina password
+        'PASSWORD': 'asif123', # pgAdmin la set pannina password
         'HOST': 'localhost',
         'PORT': '5432',
     }
